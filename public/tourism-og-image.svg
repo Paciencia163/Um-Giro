@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Um Giro Turismo Virtual" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0B65A6" />
+    </linearGradient>
+    <linearGradient id="hills" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#0EA5E9" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <path d="M0 430 C250 360 450 520 820 430 L1200 510 V630 H0 Z" fill="url(#hills)" opacity="0.95" />
+  <path d="M0 520 C250 420 530 580 900 520 L1200 600 V630 H0 Z" fill="#047857" opacity="0.9" />
+  <circle cx="980" cy="140" r="90" fill="#FBBF24" />
+  <circle cx="980" cy="140" r="50" fill="#F59E0B" />
+  <text x="80" y="190" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="72" fill="#FFFFFF" font-weight="700">Um Giro</text>
+  <text x="80" y="260" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="38" fill="#E2E8F0">Turismo Virtual</text>
+  <text x="80" y="340" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="28" fill="#D1D5DB">Descubra destinos e experiências únicas</text>
+</svg>
